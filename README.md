@@ -150,3 +150,8 @@ streamlit run frontend/app.py
 
 ---
 
+## Screenshots
+<img width="1920" height="832" alt="image-1" src="https://github.com/user-attachments/assets/19f3edc4-8904-4cd1-a6d5-3374b22203d6" />
+
+<img width="1908" height="805" alt="image-2" src="https://github.com/user-attachments/assets/0fd81240-e0e5-4ffe-b3cc-d65b0ef4ed0b" />
+
